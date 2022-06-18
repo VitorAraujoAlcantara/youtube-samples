@@ -17,8 +17,4 @@
     <ProjectReference Include="..\teste-mock.Services\teste-mock.Services.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
